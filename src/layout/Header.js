@@ -22,10 +22,10 @@ class Header extends Component {
         </div>
 
         <div className="main-head">
-          <a href="#!">
+          <a href=" ">
             <img
               src="https://www.friidesigns.com/wp-content/uploads/2018/11/white-play-icon-png-6.png"
-              alt="#"
+              alt=""
             />
           </a>
         </div>
